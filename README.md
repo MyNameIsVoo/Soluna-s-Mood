@@ -1,4 +1,5 @@
 
+
 # Solanu's Mood 
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/erochinsam) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ErochinSam) [![Boostry](https://img.shields.io/badge/Boosty-F16061?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/erochinsam/donate) ![GitHub Follow](https://img.shields.io/github/followers/MyNameIsVoo?label=MyNameIsVoo&style=social)
@@ -67,3 +68,8 @@ E-mail: choco.16mail@mail.ru
 If you find a bug or have any suggestions for improvement, please let us know: choco.16mail@mail.ru
 
 # Updates
+v1.0.3 Small hot-fix
+
+ - Fixed a bug in the console after changing the game settings
+ - Fixed the negative value of points after receiving an item
+ - Fixed a bug due to which rewards were not given for switching to Discord or Community Group
